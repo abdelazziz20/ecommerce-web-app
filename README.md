@@ -39,4 +39,4 @@ Here are some helpful resources for understanding and implementing Elastic Load 
 
 
 
-continuous work build expirience 😊
+continuous work build expirience 
